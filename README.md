@@ -1,1 +1,1 @@
-# WebDesign
+# Web design with origamid course
